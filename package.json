@@ -21,6 +21,6 @@
   },
   "preferGlobal":false,
   "bin":{
-    "license-checker-filter": "src/bin/lincese-checker-filter.bin"
+    "license-checker-filter": "src/bin/lincese-checker-filter.js"
   }
 }
