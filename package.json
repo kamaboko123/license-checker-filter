@@ -19,8 +19,8 @@
   "dependencies": {
     "license-checker": "^25.0.1"
   },
-  "preferGlobal":false,
-  "bin":{
-    "license-checker-filter": "src/bin/lincese-checker-filter.js"
+  "preferGlobal": false,
+  "bin": {
+    "license-checker-filter": "lincese-checker-filter.js"
   }
 }
